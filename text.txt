@@ -1,0 +1,18 @@
+/project-root
+│
+├── config
+│   └── auth.js
+│
+├── controllers
+│   ├── authController.js
+│   └── emailController.js
+│
+├── routes
+│   ├── authRoutes.js
+│   └── emailRoutes.js
+│
+├── services
+│   └── emailService.js
+│
+├── app.js
+└── .env
